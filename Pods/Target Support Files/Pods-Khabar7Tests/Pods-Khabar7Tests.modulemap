@@ -1,0 +1,6 @@
+framework module Pods_Khabar7Tests {
+  umbrella header "Pods-Khabar7Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

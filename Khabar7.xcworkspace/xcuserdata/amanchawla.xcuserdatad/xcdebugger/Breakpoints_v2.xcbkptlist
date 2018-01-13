@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Khabar7/View/Row/HeadlineRow.swift"
+            timestampString = "537025622.544337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "HeadlineRow"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Khabar7.HeadlineRow.transferOfflineData.getter : Swift.Array&lt;Khabar7.LatestNews&gt;"
+                  moduleName = "Khabar7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanchawla/Desktop/Khabar7/Khabar7/View/Row/HeadlineRow.swift"
+                  timestampString = "536770302.431583"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Khabar7.HeadlineRow.transferOfflineData.setter : Swift.Array&lt;Khabar7.LatestNews&gt;"
+                  moduleName = "Khabar7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanchawla/Desktop/Khabar7/Khabar7/View/Row/HeadlineRow.swift"
+                  timestampString = "536770302.434771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Khabar7.HeadlineRow.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Khabar7.HeadlineRow"
+                  moduleName = "Khabar7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanchawla/Desktop/Khabar7/Khabar7/View/Row/HeadlineRow.swift"
+                  timestampString = "536770302.437763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Khabar7.HeadlineRow.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Khabar7.HeadlineRow&gt;"
+                  moduleName = "Khabar7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanchawla/Desktop/Khabar7/Khabar7/View/Row/HeadlineRow.swift"
+                  timestampString = "536770302.44087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "711">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
